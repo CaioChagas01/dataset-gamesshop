@@ -1,5 +1,5 @@
 # Insight
-<br>
+
 | País         | Quantidade (AliExpress) | Total de Vendas (AliExpress) | Quantidade (Etsy) | Total de Vendas (Etsy) | Quantidade (Shopee) | Total de Vendas (Shopee) |
 |--------------|-------------------------|------------------------------|--------------------|------------------------|----------------------|--------------------------|
 | Austrália    | 8                       | 650                          | 5                  | 350                    | 15                   | 1330                     |
