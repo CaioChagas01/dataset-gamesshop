@@ -1,4 +1,5 @@
-
+# Insight
+<br>
 | País         | Quantidade (AliExpress) | Total de Vendas (AliExpress) | Quantidade (Etsy) | Total de Vendas (Etsy) | Quantidade (Shopee) | Total de Vendas (Shopee) |
 |--------------|-------------------------|------------------------------|--------------------|------------------------|----------------------|--------------------------|
 | Austrália    | 8                       | 650                          | 5                  | 350                    | 15                   | 1330                     |
@@ -9,4 +10,4 @@
 | EUA          | 4                       | 410                          | 1                  | 110                    | 0                    | 0                        |
 | Japão        | 0                       | 0                            | 18                 | 1750                   | 9                    | 760                      |
 
-## Passo 2: Defina Suas Perguntas para o ChatGPT
+
